@@ -54,4 +54,3 @@ for i in range(106):  # mpmt
 #%%
 with open('../data/mpmt_tof_pos1.json', 'w') as fp:
     json.dump(d, fp, indent=4)
-# %%
